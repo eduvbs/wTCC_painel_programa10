@@ -28,9 +28,6 @@ O comando de instalação completo se precisar:
 
 pip install torch torchvision torchaudio ultralytics opencv-python numpy pandas matplotlib pillow pyyaml tqdm jupyter
 
-
-Agora todos os itens da lista têm um espaço após o hífen. Quer mais algum ajuste?
-
 ### Hardware
 - GPU compatível com CUDA 
 - Memória RAM suficiente para processamento de imagens
