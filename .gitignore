@@ -1,0 +1,20 @@
+# Arquivos de cache
+*.cache
+train.cache
+valid.cache
+
+# Arquivos compilados Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Excluir todas as runs EXCETO a mais recente
+runs/detect/train*/
+!runs/detect/train15/
+
+# Permitir imagens específicas do dataset
+# As linhas abaixo estão comentadas para permitir envio do dataset
+#*.jpg
+#*.jpeg
+#*.png
+#*.fr.*
