@@ -24,10 +24,6 @@ Este é um sistema de detecção de hotspots em painéis solares usando o modelo
 - math (funções matemáticas)
 - gc (gerenciamento de memória)
 
-O comando de instalação completo se precisar:
-
-pip install torch torchvision torchaudio ultralytics opencv-python numpy pandas matplotlib pillow pyyaml tqdm jupyter
-
 ### Hardware
 - GPU compatível com CUDA 
 - Memória RAM suficiente para processamento de imagens
@@ -84,7 +80,7 @@ projeto/
 
 1. Preparação do programa para o VScode
   
-   pip install torch torchvision torchaudio ultralytics opencv-python numpy pandas matplotlib pillow pyyaml
+  pip install torch torchvision torchaudio ultralytics opencv-python numpy pandas matplotlib pillow pyyaml tqdm jupyter
  
 2. **Resultados**
    - Os resultados do treinamento serão salvos em `runs/detect/`
