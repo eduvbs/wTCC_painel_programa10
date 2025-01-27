@@ -78,8 +78,7 @@ projeto/
 ### 3. Predição e Visualização
 - Detecção em imagens de teste
 - Visualização de resultados com bounding boxes
-- Animação das detecções
-- Exportação de resultados em DataFrame
+- Animação em das detecções ou em grid
 
 ## Como Usar
 
